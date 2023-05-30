@@ -28,8 +28,7 @@ twitter_username: mackeyefake
 github_username:  mackeyefake
 
 # Build settings
-# theme: minima
-theme: modernist
+theme: minima
 plugins:
   - jekyll-feed
 
