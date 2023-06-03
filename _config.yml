@@ -29,7 +29,7 @@ github_username:  mackeyefake
 
 # Build settings
 minima:
-  date_format: "%m/%d/%y"
+  date_format: "%m.%d.%y"
 theme: minima
 plugins:
   - jekyll-feed
