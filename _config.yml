@@ -20,12 +20,12 @@
 
 title: people's commissariat of nothing
 # email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-    writing until the great terror arrives or i find something better to do
+# description: >- # this means to ignore newlines until "baseurl:"
+#   writing until the great terror arrives or i find something better to do
 baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "https://mackeyefake.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mackeyefake
-github_username:  mackeyefake
+# twitter_username: mackeyefake
+# github_username:  mackeyefake
 
 # Build settings
 minima:
