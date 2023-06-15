@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-I'm a student at UMich Ann Arbor! I have thoughts occasionally which you're reading right now. That's pretty cool of you so thanks for that.
+I'm a student studying Chemistry and Biophysics! I have thoughts occasionally which you're reading right now. That's pretty cool of you so thanks for that.
 
 --
 
